@@ -29,4 +29,10 @@ The Wine Reviews data set consists of 150,930 rows and 10 columns (excluding the
 
 _This storyboard does not contain every step taken as part of the analysis._
 
-### 
+### Folders
+
+The Wine Analysis folder consists of three sub-folders:
+* Data Sets - Contains the raw and prepared data sets I worked with for this project
+* Scripts - Contains the Python scripts I wrote to complete each required task for this project
+* Project Management - Contains the project brief provided by Career Foundry, and a PDF document which introduces the data set as well as the data profile, a table outlining the data consistency checks performed, and a table outlining my data wrangling steps.
+
