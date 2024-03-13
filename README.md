@@ -4,7 +4,7 @@ The Wine Reviews data set I chose to work with was sourced from an external data
 
 _Wine Reviews._ https://www.kaggle.com/datasets/zynicide/wine-reviews. Accessed 2 Mar. 2024.
 
-I chose to work with the data set because it fills the project brief requiurements outlined by Career Foundry. Additionally, I chose this data set because wine tasting has always been a bit of a hobby of mine, so I have personal interest in this particular type of data.
+I chose to work with the data set because it fulfills the project brief requiurements outlined by Career Foundry. Additionally, I chose this data set because wine tasting has always been a bit of a hobby of mine, so I have personal interest in this particular type of data.
 
 ### Data Collection
 
