@@ -27,7 +27,7 @@ The Wine Reviews data set consists of 150,930 rows and 10 columns (excluding the
 ### Link to Tableau Storyboard
 [Tableau Storyboard](https://public.tableau.com/views/WineReviewsDataAnalysis/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-_This storyboard does not contain every step taken as part of the analysis._
+_This storyboard does not contain every step taken as part of the analysis. Moreso, it was used to answer several of my 'Questions to Explore.'_
 
 ### Folders
 
